@@ -1,2 +1,2 @@
-# strategemX
+# strategem X
 game
